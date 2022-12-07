@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe37aab-c680-4eaa-9252-959fb2a4f717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/josecoelho/adventofcode2022/Day2Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/inputs/day2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/me/josecoelho/adventofcode2022/Day2Part1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/inputs/day2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -67,9 +63,9 @@
       <recent name="me.josecoelho.adventofcode2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day2Part1">
-    <configuration name="Day1Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day1Part2" />
+  <component name="RunManager" selected="Application.Day2Part2">
+    <configuration name="Day2Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day2Part1" />
       <module name="adventofcode2022" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day2Part1" />
+    <configuration name="Day2Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day2Part2" />
       <module name="adventofcode2022" />
       <extension name="coverage">
         <pattern>
@@ -102,21 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day1Part2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="adventofcode2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.josecoelho.adventofcode2022.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="me.josecoelho.adventofcode2022" />
-      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day1Part2Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Day2Part1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adventofcode2022" />
       <extension name="coverage">
@@ -132,13 +113,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day2Part2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventofcode2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.josecoelho.adventofcode2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.josecoelho.adventofcode2022" />
+      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day2Part2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2Part2" />
+        <item itemvalue="JUnit.Day2Part2Test" />
         <item itemvalue="Application.Day2Part1" />
         <item itemvalue="JUnit.Day2Part1Test" />
         <item itemvalue="JUnit.All in adventofcode2022" />
-        <item itemvalue="Application.Day1Part2" />
-        <item itemvalue="JUnit.Day1Part2Test" />
       </list>
     </recent_temporary>
   </component>
