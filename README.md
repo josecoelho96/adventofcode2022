@@ -4,7 +4,7 @@ Advent of code puzzles of 2022
 # Status
 | Day | Part 1             | Part 2             |
 |-----|--------------------|--------------------|
-|  1  | :heavy_check_mark: | :heavy_check_mark: |
+|  1  | :white_check_mark: | :heavy_check_mark: |
 |  2  | :heavy_check_mark: | :heavy_check_mark: |
 |  3  | :heavy_check_mark: | :heavy_check_mark: |
 |  4  | :heavy_check_mark: | :heavy_check_mark: |
