@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe37aab-c680-4eaa-9252-959fb2a4f717" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "/Users/jcoelho/dev/adventofcode2022/src/test/resources/inputs",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -63,7 +63,7 @@
       <recent name="me.josecoelho.adventofcode2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day2Part2">
+  <component name="RunManager" selected="Application.Day3Part1">
     <configuration name="Day2Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day2Part1" />
       <module name="adventofcode2022" />
@@ -90,15 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in adventofcode2022" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="adventofcode2022" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day2Part1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day3Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day3Part1" />
       <module name="adventofcode2022" />
       <extension name="coverage">
         <pattern>
@@ -106,9 +99,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="me.josecoelho.adventofcode2022" />
-      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day2Part1Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,13 +118,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day3Part1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventofcode2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.josecoelho.adventofcode2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.josecoelho.adventofcode2022" />
+      <option name="MAIN_CLASS_NAME" value="me.josecoelho.adventofcode2022.Day3Part1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day3Part1" />
+        <item itemvalue="JUnit.Day3Part1Test" />
         <item itemvalue="Application.Day2Part2" />
         <item itemvalue="JUnit.Day2Part2Test" />
         <item itemvalue="Application.Day2Part1" />
-        <item itemvalue="JUnit.Day2Part1Test" />
-        <item itemvalue="JUnit.All in adventofcode2022" />
       </list>
     </recent_temporary>
   </component>
@@ -148,5 +153,16 @@
       <updated>1670444389162</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/me/josecoelho/adventofcode2022/Day3Part1Test.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
